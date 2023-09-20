@@ -283,7 +283,7 @@ Notes:
 - Appreciate SPI buses
   - SPI makes Mac trackpads awesome
 - Improve understanding of Apple design
-  - Integratin of hardware and software drives performance
+  - Integration of hardware and software drives performance
 - Troubleshoot hardware
   - Hardware or Software
 
